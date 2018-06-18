@@ -1,0 +1,10 @@
+{
+    "extensions.ignoreRecommendations": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": -1,
+    "git.ignoreMissingGitWarning": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Visual Studio Dark"
+}

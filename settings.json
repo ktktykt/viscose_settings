@@ -1,0 +1,11 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "extensions.ignoreRecommendations": false,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "window.zoomLevel": -1,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "r.lintr.executable": "C:\\Program Files\\R\\R-3.3.3\\bin\\x64\\R.exe",
+    "r.lintr.enabled": false,
+    "workbench.colorTheme": "Monokai"
+}

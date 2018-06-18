@@ -1,0 +1,18 @@
+// 既定値を上書きするには、このファイル内にキー バインドを挿入します
+[
+    {
+        "key": "ctrl+enter",
+        "command": "workbench.action.terminal.runSelectedText"
+    },
+    { "key": "ctrl+shiht+enter",      "command": "jupyter.execCurrentCell",
+        "when": "editorTextFocus"
+},
+{
+    "key": "ctrl+k ctrl+u",
+    "command": "editor.action.transformToUppercase"
+},
+{
+    "key": "ctrl+k ctrl+l",
+    "command": "editor.action.transformToLowercase"
+}
+]

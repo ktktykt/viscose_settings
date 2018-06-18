@@ -6,5 +6,5 @@
     "git.ignoreMissingGitWarning": true,
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
-    "workbench.colorTheme": "Visual Studio Dark"
+    "workbench.colorTheme": "Visual Studio Dark" 
 }
